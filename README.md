@@ -1,0 +1,2 @@
+# MongoDB Projection Error
+This repository demonstrates a common error encountered when using projections in MongoDB queries. The original code retrieves unexpected fields in the results, whereas the solution shows the corrected code.
